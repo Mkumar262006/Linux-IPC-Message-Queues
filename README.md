@@ -80,9 +80,10 @@ int main()
 
 ```
 ## OUTPUT
-![image](https://github.com/Mkumar262006/Linux-IPC-Message-Queues/assets/147139472/f299fd43-57ba-4eb2-ae05-fb47db055da1)
-![image](https://github.com/Mkumar262006/Linux-IPC-Message-Queues/assets/147139472/52730168-8e89-41fc-8676-26e3acf643f8)
-![image](https://github.com/Mkumar262006/Linux-IPC-Message-Queues/assets/147139472/033a32b6-1c60-49f3-bcfe-ea40fbc549fb)
+
+![image](./output%201%20exp4.png)
+![image](./output%202%20exp4.png)
+![image](./output%203%20exp4.png)
 
 
 # RESULT:
