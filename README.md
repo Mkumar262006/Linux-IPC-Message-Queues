@@ -80,9 +80,9 @@ int main()
 
 ```
 ## OUTPUT
-https://github.com/vikamuhan-reddy/Linux-IPC-Message-Queues/blob/main/exp4os.jpg![image](https://github.com/Mkumar262006/Linux-IPC-Message-Queues/assets/147139472/f299fd43-57ba-4eb2-ae05-fb47db055da1)
-https://github.com/vikamuhan-reddy/Linux-IPC-Message-Queues/blob/main/exp4os1.jpg![image](https://github.com/Mkumar262006/Linux-IPC-Message-Queues/assets/147139472/52730168-8e89-41fc-8676-26e3acf643f8)
-https://github.com/vikamuhan-reddy/Linux-IPC-Message-Queues/blob/main/exp4os2.jpg![image](https://github.com/Mkumar262006/Linux-IPC-Message-Queues/assets/147139472/033a32b6-1c60-49f3-bcfe-ea40fbc549fb)
+![image](https://github.com/Mkumar262006/Linux-IPC-Message-Queues/assets/147139472/f299fd43-57ba-4eb2-ae05-fb47db055da1)
+![image](https://github.com/Mkumar262006/Linux-IPC-Message-Queues/assets/147139472/52730168-8e89-41fc-8676-26e3acf643f8)
+![image](https://github.com/Mkumar262006/Linux-IPC-Message-Queues/assets/147139472/033a32b6-1c60-49f3-bcfe-ea40fbc549fb)
 
 
 # RESULT:
